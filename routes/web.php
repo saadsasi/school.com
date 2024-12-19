@@ -8,8 +8,8 @@ Route::get('/', function () {
 
 
 
-Route::get('admin/dashbaord', function () {
-    return view('admin.dashbaord');
+Route::get('admin/dashboard', function () {
+    return view('admin.dashboard');
 });
 
 
